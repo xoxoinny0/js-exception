@@ -1,0 +1,12 @@
+{
+  "name": "k",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01-고전적예외처리.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
